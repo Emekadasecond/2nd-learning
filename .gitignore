@@ -1,0 +1,5 @@
+.terraform
+terraform.*
+*.terraform.*
+flex-keypair
+flex-keypair.pub
